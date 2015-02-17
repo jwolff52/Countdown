@@ -256,10 +256,25 @@ public class Main {
 			out.append(output.get(0)[i]+output.get(1)[i]+output.get(2)[i]+output.get(3)[i]+output.get(4)[i]+"\n");
 		}
 		out.append(output.get(0)[4]+output.get(1)[4]+output.get(2)[4]+output.get(3)[4]+output.get(4)[4]);
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
 		System.out.println(out.toString());
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
 	}
 }
